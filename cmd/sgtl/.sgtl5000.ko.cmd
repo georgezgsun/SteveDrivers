@@ -1,0 +1,1 @@
+cmd_/mnt/steve/code/imx6sm/isl/cmd/sgtl/sgtl5000.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/steve/code/imx6sm/isl/cmd/sgtl/sgtl5000.ko /mnt/steve/code/imx6sm/isl/cmd/sgtl/sgtl5000.o /mnt/steve/code/imx6sm/isl/cmd/sgtl/sgtl5000.mod.o ;  true

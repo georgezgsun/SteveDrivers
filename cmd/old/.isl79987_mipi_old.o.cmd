@@ -1,0 +1,1 @@
+cmd_/mnt/steve/code/imx6sm/isl/cmd/old/isl79987_mipi_old.o := ld -EL    -r -o /mnt/steve/code/imx6sm/isl/cmd/old/isl79987_mipi_old.o /mnt/steve/code/imx6sm/isl/cmd/old/../../src/drv/old/v4l2-int-device.o /mnt/steve/code/imx6sm/isl/cmd/old/../../src/drv/old/isl79987_mipi_old.o 

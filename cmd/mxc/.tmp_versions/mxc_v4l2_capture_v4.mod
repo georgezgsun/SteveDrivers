@@ -1,0 +1,3 @@
+/mnt/steve/code/imx6sm/isl/cmd/mxc/mxc_v4l2_capture_v4.ko
+/mnt/steve/code/imx6sm/isl/cmd/mxc/../../src/drv/mxc/ipu_bg_overlay_sdc.o /mnt/steve/code/imx6sm/isl/cmd/mxc/../../src/drv/mxc/ipu_csi_enc.o /mnt/steve/code/imx6sm/isl/cmd/mxc/../../src/drv/mxc/ipu_fg_overlay_sdc.o /mnt/steve/code/imx6sm/isl/cmd/mxc/../../src/drv/mxc/ipu_prp_enc.o /mnt/steve/code/imx6sm/isl/cmd/mxc/../../src/drv/mxc/ipu_prp_vf_sdc.o /mnt/steve/code/imx6sm/isl/cmd/mxc/../../src/drv/mxc/ipu_prp_vf_sdc_bg.o /mnt/steve/code/imx6sm/isl/cmd/mxc/../../src/drv/mxc/ipu_still.o /mnt/steve/code/imx6sm/isl/cmd/mxc/../../src/drv/mxc/mxc_v4l2_capture_v4.o
+

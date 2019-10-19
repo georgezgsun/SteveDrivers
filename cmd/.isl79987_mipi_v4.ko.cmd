@@ -1,0 +1,1 @@
+cmd_/mnt/steve/code/imx6sm/isl/cmd/isl79987_mipi_v4.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/steve/code/imx6sm/isl/cmd/isl79987_mipi_v4.ko /mnt/steve/code/imx6sm/isl/cmd/isl79987_mipi_v4.o /mnt/steve/code/imx6sm/isl/cmd/isl79987_mipi_v4.mod.o ;  true

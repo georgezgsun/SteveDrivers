@@ -1,0 +1,1 @@
+cmd_/home/steve/code/imx8mq/isl/cmd/mxc-mipi-csi2_yav.ko := aarch64-poky-linux-ld -EL -r  -maarch64linux -T ./scripts/module-common.lds --build-id  -o /home/steve/code/imx8mq/isl/cmd/mxc-mipi-csi2_yav.ko /home/steve/code/imx8mq/isl/cmd/mxc-mipi-csi2_yav.o /home/steve/code/imx8mq/isl/cmd/mxc-mipi-csi2_yav.mod.o ;  true

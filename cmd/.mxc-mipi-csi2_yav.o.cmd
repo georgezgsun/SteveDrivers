@@ -1,0 +1,1 @@
+cmd_/home/steve/code/imx8mq/isl/cmd/mxc-mipi-csi2_yav.o := aarch64-poky-linux-ld -EL  -maarch64linux   -r -o /home/steve/code/imx8mq/isl/cmd/mxc-mipi-csi2_yav.o /home/steve/code/imx8mq/isl/cmd/../src/drv/mxc-mipi-csi2_yav.o 

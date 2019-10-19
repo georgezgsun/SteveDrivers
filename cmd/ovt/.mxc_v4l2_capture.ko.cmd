@@ -1,0 +1,1 @@
+cmd_/mnt/steve/code/imx6sm/isl/cmd/ovt/mxc_v4l2_capture.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/steve/code/imx6sm/isl/cmd/ovt/mxc_v4l2_capture.ko /mnt/steve/code/imx6sm/isl/cmd/ovt/mxc_v4l2_capture.o /mnt/steve/code/imx6sm/isl/cmd/ovt/mxc_v4l2_capture.mod.o ;  true

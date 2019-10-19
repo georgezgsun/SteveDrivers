@@ -1,0 +1,1 @@
+cmd_/mnt/steve/code/imx6sm/isl/cmd/ovt/mxc_v4l2_capture.o := ld -EL    -r -o /mnt/steve/code/imx6sm/isl/cmd/ovt/mxc_v4l2_capture.o /mnt/steve/code/imx6sm/isl/cmd/ovt/../../src/drv/ovt/mxc_v4l2_capture.o 
